@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="imageUrl">
+        <item>https://picsum.photos/id/100/367/267</item>
+        <item>https://picsum.photos/id/1001/5616/3744</item>
+        <item>https://picsum.photos/id/100/367/267</item>
+        <item>https://picsum.photos/id/1001/5616/3744</item>
+        <item>https://picsum.photos/id/100/367/267</item>
+        <item>https://picsum.photos/id/1001/5616/3744</item>
+        <item>https://picsum.photos/id/100/367/267</item>
+        <item>https://picsum.photos/id/1001/5616/3744</item>
+
+
+    </string-array>
+</resources>

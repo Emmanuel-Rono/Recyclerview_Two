@@ -8,6 +8,7 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="407dp"
+        android:id="@+id/Recy"
         android:layout_height="726dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
